@@ -2,6 +2,7 @@
   "CustomVehicles": [
     {
       "DashboardColorIndex": 0,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -25,6 +26,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 0,
+      "Livery": -1,
       "ModelHash": -1041692462,
       "Name": "[Car] Banshee",
       "NeonColor": {
@@ -41,6 +43,7 @@
         "r": 15
       },
       "PrimaryColorIndex": 1,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 8,
         "g": 8,
@@ -113,6 +116,7 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -136,6 +140,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": 2072687711,
       "Name": "[Car] Carbonizzare",
       "NeonColor": {
@@ -152,6 +157,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
@@ -224,6 +230,7 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -247,6 +254,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": 1483171323,
       "Name": "[Car] Deluxo",
       "NeonColor": {
@@ -263,6 +271,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
@@ -335,6 +344,7 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -358,6 +368,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": -1995326987,
       "Name": "[Car] Feltzer",
       "NeonColor": {
@@ -374,6 +385,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
@@ -446,6 +458,7 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -469,6 +482,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": 418536135,
       "Name": "[Car] Infernus",
       "NeonColor": {
@@ -485,6 +499,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
@@ -557,6 +572,7 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -580,6 +596,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": 1455990255,
       "Name": "[Car] Toreador",
       "NeonColor": {
@@ -596,6 +613,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
@@ -668,11 +686,12 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
         "CustomPrimaryColor": true,
-        "CustomSecondaryColor": true,
+        "CustomSecondaryColor": false,
         "ExtraFlag1": false,
         "ExtraFlag10": false,
         "ExtraFlag11": false,
@@ -691,6 +710,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": 1181327175,
       "Name": "[Helicopter] Akula",
       "NeonColor": {
@@ -707,6 +727,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
@@ -779,6 +800,7 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -802,6 +824,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": -1660661558,
       "Name": "[Helicopter] Maverick",
       "NeonColor": {
@@ -818,6 +841,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
@@ -890,6 +914,7 @@
     },
     {
       "DashboardColorIndex": 111,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -913,6 +938,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 0,
+      "Livery": -1,
       "ModelHash": -726768679,
       "Name": "[Helicopter] Sea Sparrow",
       "NeonColor": {
@@ -929,6 +955,7 @@
         "r": 135
       },
       "PrimaryColorIndex": 5,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 28,
         "g": 30,
@@ -1001,6 +1028,7 @@
     },
     {
       "DashboardColorIndex": 0,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -1024,6 +1052,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 0,
+      "Livery": -1,
       "ModelHash": 562680400,
       "Name": "[Military] APC",
       "NeonColor": {
@@ -1040,6 +1069,7 @@
         "r": 86
       },
       "PrimaryColorIndex": 154,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 112,
         "g": 102,
@@ -1112,6 +1142,7 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -1135,6 +1166,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": -255678177,
       "Name": "[Motorcycle] Hakuchou Drag",
       "NeonColor": {
@@ -1151,6 +1183,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
@@ -1223,6 +1256,7 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -1246,6 +1280,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": 2069146067,
       "Name": "[Motorcycle] Oppressor Mk II",
       "NeonColor": {
@@ -1262,6 +1297,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
@@ -1334,6 +1370,7 @@
     },
     {
       "DashboardColorIndex": 111,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -1357,6 +1394,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 0,
+      "Livery": -1,
       "ModelHash": -975345305,
       "Name": "[Plane] Rogue",
       "NeonColor": {
@@ -1373,6 +1411,7 @@
         "r": 51
       },
       "PrimaryColorIndex": 14,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 47,
         "g": 50,
@@ -1445,6 +1484,7 @@
     },
     {
       "DashboardColorIndex": 12,
+      "DriftTyres": true,
       "EnvEffScale": -1.000000,
       "Flags": {
         "BulletproofTyres": true,
@@ -1468,6 +1508,7 @@
         "NeonRight": true
       },
       "InteriorColorIndex": 12,
+      "Livery": -1,
       "ModelHash": -1590337689,
       "Name": "[Special] Blazer Aqua",
       "NeonColor": {
@@ -1484,6 +1525,7 @@
         "r": 5
       },
       "PrimaryColorIndex": 12,
+      "RoofLivery": 0,
       "SecondaryColor": {
         "b": 5,
         "g": 5,
